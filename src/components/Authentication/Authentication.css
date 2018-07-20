@@ -1,0 +1,13 @@
+.card{
+    margin: 20px auto;
+    background: transparent;
+}
+
+.email, .password, .sign-in{
+    background: transparent;
+}
+
+#rg-route:hover{
+    cursor: pointer;
+    color: #fff;
+}

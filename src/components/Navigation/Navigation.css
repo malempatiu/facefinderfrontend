@@ -1,0 +1,14 @@
+#nav-div{
+     padding: 30px;
+}
+
+.nav-item{
+    cursor: pointer;
+    background: transparent;
+    font-size: 1.3rem;
+}
+
+.nav-item:hover{
+     color: #fff;
+     text-decoration: underline;
+}
